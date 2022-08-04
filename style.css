@@ -571,7 +571,7 @@ img{
 }
 
 .places__card:hover .places__card-pic{
-    transform: scale(1.05);
+    transform: scale(1.08);
 }
 
 .places__card-title{
